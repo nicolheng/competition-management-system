@@ -19,7 +19,7 @@ made this project as my SPM SK project, uploading this as a backup
 1. Clone the repository  
 2. Place the project in your local server directory (e.g. htdocs for XAMPP).
 3. Import the provided database file into MySQL.
-4. Access the project from http://localhost/<project-folder>.
+4. Access the project from `http://localhost/<project-folder>`.
 
 ## Notes
 - this project was made on 2022 as my SPM SK project, and it is no longer maintained
