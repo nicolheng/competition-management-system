@@ -1,0 +1,31 @@
+body {
+    background-color:#2e86ab;
+}
+
+footer {
+    color: #fff;
+    background-color: #00597c;
+    border-top:solid #29799a; 
+    border-top-width:0 2px;
+    bottom: 0;
+}
+.btn-primary {
+  background-color:#2e86ab !important; 
+  border: 0 1px !important; 
+  border-color:#00597c !important;
+  transition-duration: 0.4s;
+}
+.btn-primary:hover {
+  background-color:#29799a; 
+}
+
+@media print {
+  #table  { 
+    display: block !important; 
+  }
+  :not(#table) { 
+    display: none; 
+  }
+}
+
+
